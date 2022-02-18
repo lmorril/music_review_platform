@@ -116,3 +116,11 @@ iframe {
     height:100%;
     border: dotted;
 }
+
+.question {
+    color: blue;
+}
+
+.answer {
+    font-style: italic;
+}
