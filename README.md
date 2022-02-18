@@ -3,3 +3,5 @@ This site was designed and published as part of the COMP 333 Software Engineerin
 
 
 Website is available here: https://lmorril.github.io/music_review_platform/
+
+All images came from Pixabay and are open source.
