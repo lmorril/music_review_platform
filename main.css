@@ -75,7 +75,7 @@ nav {
 }
 
 .morebutn {
-    background-color: rgb(0, 25, 248);
+    background-color: rgb(253, 253, 253);
     
 }
 
@@ -88,6 +88,11 @@ nav {
     font-size: 40px;
     color:rgb(0, 0, 0);
 
+}
+
+.pictext{
+    font-size: 30;
+    font-style: italic;
 }
 
 
