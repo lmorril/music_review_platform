@@ -54,7 +54,7 @@ nav {
     font-weight: var(--bold-font);
 }
 
-.firstscreen {
+#firstscreen {
     background-image: url(photos/girl_listening.jpg);
     /*display: flex;
     align-items: center;
@@ -102,8 +102,9 @@ nav {
 }
 
 #man_pic {
-    width: 100%;
     height: 200px;
+    margin: 12px auto;
+    overflow-x: hidden;
 }
 
 
