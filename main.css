@@ -104,8 +104,7 @@ nav {
 #man_pic {
     height: 200px;
     margin: 12px auto;
-    /*overflow-x: hidden;*/
-    width: 100%;
+    overflow-x: hidden;
 }
 
 
