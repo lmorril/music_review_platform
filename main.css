@@ -9,7 +9,7 @@
     top:50%;
     width:100%;
     text-align: center;
-    font-size:18px;
+    font-size:40px;
 }
 
 ul li {
@@ -19,6 +19,16 @@ ul li {
 a {
     text-decoration: none;
 }
+
+nav {
+    background-color: #E0FFFF;
+    display: flex;
+    box-shadow: 2px 3px 2px #f1f1f1;
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
 .logo {
     font-size: 40px;
 }
@@ -27,5 +37,9 @@ a {
 }
 
 .review {
-    color: #9932CC;
+    color: #4B0082;
+}
+
+.navbar_item{
+    font-size: 30px;
 }
